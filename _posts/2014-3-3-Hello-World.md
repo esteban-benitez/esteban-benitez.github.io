@@ -7,10 +7,6 @@ Have you ever swam in the Pacific Ocean?  When compared to the northern Atlantic
 
 The Udacity Data Scientist Nano Degree Program's Project - 1 is based on the following El Nino data set obtained from the UCI Machine Learning Repository.  (https://archive.ics.uci.edu/ml/datasets/El+Nino)  El Nino Data Set is a set of suface/oceanographic meteorological readings taken from a 59 buoys positioned throughout the equatorial Pacific.  The (TAO) or Tropical Atmospher Ocean consists of 70 buoys, yet this data set only has 59 with an average of 15 days of data based on the following attributes: zonal winds, meridonal winds, humidity, air tempature, and sub surface temperature.  
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
-
 References:
 
 Dua, D. and Graff, C. (2019). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and Computer Science.
